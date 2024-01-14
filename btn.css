@@ -1,0 +1,17 @@
+
+ body{
+     margin: 0;
+    padding: 0;
+    height: 10vh;
+    background-color: aqua;
+} 
+.container
+{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn{
+}

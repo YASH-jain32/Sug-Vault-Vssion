@@ -1,0 +1,25 @@
+body{
+    height: 10vh;
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+
+}
+.box{
+    margin-top: 20px;
+    height: 5px;
+ 
+    cursor: pointer;
+    padding: 10px 20px;
+    background: #fff;
+    border-radius: 10px;
+    align-items: center;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+}
+.box input{
+    width: 0;
+    outline: none;
+    border: none;
+    background: transparent;
+
+}
